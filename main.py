@@ -17,10 +17,10 @@ for color1 in colorRange:
             color[GREEN] = color3
             
             draw_line(screen, 0, 0, x, y, color )
-            y += 5
+            y += 30
 
-            
-#draw_line(screen, 0, 0, 500, 500, color )
+
+#draw_line(screen, 0, 500, 500, 250, color )
 
 #draw_line(screen, 0, 250, 500, 250, color)
 #draw_line(screen, 120, 250, 140, 170, color)
