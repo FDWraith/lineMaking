@@ -13,6 +13,10 @@ draw_line(screen, 250, 0, 0, 500, color)
 draw_line(screen, 0, 500, 500, 250, color)
 draw_line(screen, 500, 250, 0, 0, color)
 
+draw_line(screen, 0, 0, 500, 500, color)
+draw_line(screen, 0, 500, 500, 0, color)
+draw_line(screen, 250, 0, 250, 500, color)
+draw_line(screen, 0, 250, 500, 250, color)
 
 #draw_line(screen, 0, 250, 500, 250, color)
 #draw_line(screen, 120, 250, 140, 170, color)
